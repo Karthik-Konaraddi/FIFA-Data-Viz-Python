@@ -10,3 +10,7 @@
 ![image](https://user-images.githubusercontent.com/15854238/147400747-229534e7-5dbf-47f7-9b9e-282ed71946ca.png)
 
 ![image](https://user-images.githubusercontent.com/15854238/147400750-e7086a10-9e44-4519-8c80-57bfabcd73db.png)
+
+#Pie Chart showing the proportion of results from both 2014 and '18 FIFA world cups'
+![image](https://user-images.githubusercontent.com/15854238/147400789-e4c4cebe-abe6-4896-bf7e-a6ed69b609c0.png)
+
