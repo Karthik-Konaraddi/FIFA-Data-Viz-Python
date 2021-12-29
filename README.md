@@ -1,7 +1,7 @@
 # FIFA_Data_Visualization_Py
 
 1. Downloaded the FIFA 2014 and 2018 Dataset from publicly available Kaggle website.
-2. Used the pandas, numpy and matplotlib libraries to create a visualiztion of the data.
+2. Used the pandas, numpy and matplotlib libraries to create a visualization of the data.
 
 ![image](https://user-images.githubusercontent.com/15854238/147400736-6eb506bc-7af9-4a96-982f-6aed25fb2050.png)
 
